@@ -13,7 +13,7 @@
 - [ ] Documentation
 
 ### gridscapes
-> BONUS Pick two landscape photos instrad of squares
+> BONUS Pick two landscape photos instead of squares
 - [x] Code
 - [x] Final images
 - [x] Framing
