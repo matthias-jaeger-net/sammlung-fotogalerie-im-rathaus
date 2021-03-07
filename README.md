@@ -1,10 +1,31 @@
 # sammlung-fotogalerie-im-rathaus
 
 ### grapholit-rotation
-![grapholith](grapholit-rotation.jpg)
+- [x] Code
+- [x] Final image
+- [ ] Framing
+- [ ] Documentation
 
-## 02 | stripes
+### stripes
+- [x] Code
+- [ ] Final images
+- [ ] Framing
+- [ ] Documentation
 
-## 03 | gridscapes
+### gridscapes
+> BONUS Pick two landscape photos instrad of squares
+- [x] Code
+- [x] Final images
+- [x] Framing
+- [x] Documentation
 
-## 04 |
+### reflections
+- [ ] Code
+- [ ] Final images
+- [ ] Framing
+- [ ] Documentation
+
+
+### Ideas
+- [ ] Flowfield & colormap
+- [ ] Use a mirror?
