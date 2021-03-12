@@ -2,7 +2,7 @@
 
 ### grapholit-rotation
 
-> I was given a photo of a rock by the Austrian artist Heinz Pöschko. The image showes an obscure looking black stone he called 'grapholit' - an artificial word to describe it's appearance. I looped over all pixels and freed the stone from it's white background. Then I translated in the center of a large white canvas and walked along the points of a circle, defined by the origin in the center and a constant radius. Every step I placed a rendition of the grapholith in an individually calculated angle and offfset. What I get in the final output is a unique image every time I run the program.
+> I was given a photo of a rock by the Austrian artist Heinz Pöschko. The image showes an obscure looking black stone he called 'grapholit' - an artificial word to describe it's appearance. I looped over all pixels and freed the stone from it's white background. Then I translated in the center of a large white canvas and walked along the points of a circle, defined by the origin in the center and a constant radius. Every step I placed a rendition of the grapholith in an individually calculated angle and offset. What I get in the final output is a unique image every time I run the program.
 
 *STATUS*
 - [x] Code written out in Java
@@ -35,7 +35,7 @@
 
 ### gridscapes
 
-> sThe cross-divisional work grid-scapes combines methods from photography, computer science and graphic design. The aim of this connection is to create an independent aesthetic. The series starts with photographs of landscapes in the Styrian highlands. The further processing is to be understood as a darkroom in which is being developed. A grid is placed over the picture. In each cell, the algorithm measures the color at the center. The values for red, green and blue are visualized with a line. Length, line width and rotation of the line depend on the colors. The end product is an abstract line graphic which is the visualization of the data and equally the picture itself.
+> The cross-divisional work grid-scapes combines methods from photography, computer science and graphic design. The aim of this connection is to create an independent aesthetic. The series starts with photographs of landscapes in the Styrian highlands. The further processing is to be understood as a darkroom in which is being developed. A grid is placed over the picture. In each cell, the algorithm measures the color at the center. The values for red, green and blue are visualized with a line. Length, line width and rotation of the line depend on the colors. The end product is an abstract line graphic which is the visualization of the data and equally the picture itself.
 
 *STATUS*
 - [x] Code
