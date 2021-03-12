@@ -58,7 +58,7 @@
 
 *PREVIEW*
 
-![grid-scapes](grid-scapes.png)
+![grid-scapes](grid-scapes.jpg)
 
 ### reflections
 
